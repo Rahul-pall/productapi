@@ -1,9 +1,11 @@
-import express, { json } from "express";
+import express from "express";
+import cors from 'cors';
 import productRoute from "./routes/Products.js";
 import database from "./db/db.js";
 const app = express();
 
 const PORT = process.env.PORT || 3000;
+app.use(cors());
 app.use("/api/products", productRoute); 
 app.get("/", function (req, res) {
   res.send("hello api server run");
