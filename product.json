@@ -1,0 +1,59 @@
+[
+  {
+    "name": "iphone",
+    "price": 154,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "iphone10",
+    "price": 1154,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "watch",
+    "price": 100,
+    "company": "samsung"
+  },
+  {
+    "name": "watch10",
+    "price": 110,
+    "company": "samsung"
+  },
+  {
+    "name": "headphone",
+    "price": 200,
+    "company": "mi"
+  },
+  {
+    "name": "smartwatch",
+    "price": 1600,
+    "company": "dell"
+  },
+  {
+    "name": "smartphone",
+    "price": 20000,
+    "company": "dell"
+  },
+  {
+    "name": "trimmer",
+    "price": 1200,
+    "company": "mi"
+  },
+  {
+    "name": "earphones",
+    "price": 150,
+    "company": "mi"
+  },
+  {
+    "name": "lens",
+    "price": 80,
+    "company": "samsung"
+  },
+  {
+    "name": "phone",
+    "price": 15000,
+    "company": "samsung"
+  }
+]
